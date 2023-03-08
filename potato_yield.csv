@@ -1,0 +1,289 @@
+Month,Year,State,Yield
+Jan,2020,UP,8798.58
+Jan,2020,Punjab,8708.58
+Jan,2020,Haryana,8618.57
+Jan,2020,Bihar,8528.57
+Jan,2020,West Bengal,8438.57
+Jan,2020,Gujarat,8348.56
+Jan,2020,Assam,8258.56
+Jan,2020,Madhya Pradesh,8168.55
+Feb,2020,UP,8078.55
+Feb,2020,Punjab,7988.55
+Feb,2020,Haryana,7898.54
+Feb,2020,Bihar,7808.54
+Feb,2020,West Bengal,7718.54
+Feb,2020,Gujarat,7628.53
+Feb,2020,Assam,7538.53
+Feb,2020,Madhya Pradesh,7448.53
+Mar,2020,UP,7358.52
+Mar,2020,Punjab,7268.52
+Mar,2020,Haryana,7178.52
+Mar,2020,Bihar,7088.51
+Mar,2020,West Bengal,6998.51
+Mar,2020,Gujarat,6908.51
+Mar,2020,Assam,6818.5
+Mar,2020,Madhya Pradesh,6728.5
+Apr,2020,UP,6638.49
+Apr,2020,Punjab,6548.49
+Apr,2020,Haryana,6458.49
+Apr,2020,Bihar,6368.48
+Apr,2020,West Bengal,6278.48
+Apr,2020,Gujarat,6188.48
+Apr,2020,Assam,6098.47
+Apr,2020,Madhya Pradesh,6008.47
+May,2020,UP,5918.47
+May,2020,Punjab,5828.46
+May,2020,Haryana,5738.46
+May,2020,Bihar,5648.46
+May,2020,West Bengal,5558.45
+May,2020,Gujarat,5468.45
+May,2020,Assam,5378.45
+May,2020,Madhya Pradesh,5288.44
+Jun,2020,UP,5198.44
+Jun,2020,Punjab,5108.44
+Jun,2020,Haryana,5018.43
+Jun,2020,Bihar,4928.43
+Jun,2020,West Bengal,4838.42
+Jun,2020,Gujarat,4748.42
+Jun,2020,Assam,4658.42
+Jun,2020,Madhya Pradesh,4568.41
+Jul,2020,UP,4478.41
+Jul,2020,Punjab,4388.41
+Jul,2020,Haryana,4298.4
+Jul,2020,Bihar,4208.4
+Jul,2020,West Bengal,4118.4
+Jul,2020,Gujarat,4028.39
+Jul,2020,Assam,3938.39
+Jul,2020,Madhya Pradesh,3848.39
+Aug,2020,UP,3758.38
+Aug,2020,Punjab,3668.38
+Aug,2020,Haryana,3578.38
+Aug,2020,Bihar,3488.37
+Aug,2020,West Bengal,3398.37
+Aug,2020,Gujarat,3308.36
+Aug,2020,Assam,3218.36
+Aug,2020,Madhya Pradesh,3128.36
+Sep,2020,UP,3038.35
+Sep,2020,Punjab,2948.35
+Sep,2020,Haryana,2858.35
+Sep,2020,Bihar,2768.34
+Sep,2020,West Bengal,2678.34
+Sep,2020,Gujarat,2588.34
+Sep,2020,Assam,2498.33
+Sep,2020,Madhya Pradesh,2408.33
+Oct,2020,UP,2318.33
+Oct,2020,Punjab,2228.32
+Oct,2020,Haryana,2138.32
+Oct,2020,Bihar,2048.32
+Oct,2020,West Bengal,1958.31
+Oct,2020,Gujarat,1868.31
+Oct,2020,Assam,1778.3
+Oct,2020,Madhya Pradesh,1688.3
+Nov,2020,UP,11598.3
+Nov,2020,Punjab,11508.29
+Nov,2020,Haryana,14118.29
+Nov,2020,Bihar,9328.29
+Nov,2020,West Bengal,6238.28
+Nov,2020,Gujarat,5148.28
+Nov,2020,Assam,1058.28
+Nov,2020,Madhya Pradesh,2968.27
+Dec,2020,UP,10878.27
+Dec,2020,Punjab,9788.27
+Dec,2020,Haryana,7698.26
+Dec,2020,Bihar,4608.26
+Dec,2020,West Bengal,2518.26
+Dec,2020,Gujarat,3428.25
+Dec,2020,Assam,1338.25
+Dec,2020,Madhya Pradesh,1248.25
+Jan,2021,UP,3294.80 
+Jan,2021,Punjab,3250.42 
+Jan,2021,Haryana,3206.03 
+Jan,2021,Bihar,3161.65 
+Jan,2021,West Bengal,3117.27 
+Jan,2021,Gujarat,3072.88 
+Jan,2021,Assam,3028.50 
+Jan,2021,Madhya Pradesh,2984.12 
+Feb,2021,UP,2939.74 
+Feb,2021,Punjab,2895.35 
+Feb,2021,Haryana,2850.97 
+Feb,2021,Bihar,2806.59 
+Feb,2021,West Bengal,2762.20 
+Feb,2021,Gujarat,2717.82 
+Feb,2021,Assam,2673.44 
+Feb,2021,Madhya Pradesh,2629.05 
+Mar,2021,UP,2584.67 
+Mar,2021,Punjab,2540.29 
+Mar,2021,Haryana,2495.91 
+Mar,2021,Bihar,2451.52 
+Mar,2021,West Bengal,2407.14 
+Mar,2021,Gujarat,2362.76 
+Mar,2021,Assam,2318.37 
+Mar,2021,Madhya Pradesh,2273.99 
+Apr,2021,UP,2229.61 
+Apr,2021,Punjab,2185.23 
+Apr,2021,Haryana,2140.84 
+Apr,2021,Bihar,2096.46 
+Apr,2021,West Bengal,2052.08 
+Apr,2021,Gujarat,2007.69 
+Apr,2021,Assam,1963.31 
+Apr,2021,Madhya Pradesh,1918.93 
+May,2021,UP,1874.55 
+May,2021,Punjab,1830.16 
+May,2021,Haryana,1785.78 
+May,2021,Bihar,1741.40 
+May,2021,West Bengal,1697.01 
+May,2021,Gujarat,1652.63 
+May,2021,Assam,1608.25 
+May,2021,Madhya Pradesh,1563.86 
+Jun,2021,UP,1519.48 
+Jun,2021,Punjab,1475.10 
+Jun,2021,Haryana,1430.72 
+Jun,2021,Bihar,1386.33 
+Jun,2021,West Bengal,1341.95 
+Jun,2021,Gujarat,1297.57 
+Jun,2021,Assam,1253.18 
+Jun,2021,Madhya Pradesh,1208.80 
+Jul,2021,UP,1164.42 
+Jul,2021,Punjab,1120.04 
+Jul,2021,Haryana,1075.65 
+Jul,2021,Bihar,1031.27 
+Jul,2021,West Bengal,2986.89 
+Jul,2021,Gujarat,7942.50 
+Jul,2021,Assam,4898.12 
+Jul,2021,Madhya Pradesh,2853.74 
+Aug,2021,UP,12809.35 
+Aug,2021,Punjab,11764.97 
+Aug,2021,Haryana,14720.59 
+Aug,2021,Bihar,9676.21 
+Aug,2021,West Bengal,8631.82 
+Aug,2021,Gujarat,4587.44 
+Aug,2021,Assam,1148.51 
+Aug,2021,Madhya Pradesh,1216.31 
+Sep,2021,UP,1286.11 
+Sep,2021,Punjab,1359.91 
+Sep,2021,Haryana,1428.71 
+Sep,2021,Bihar,1499.11 
+Sep,2021,West Bengal,1569.51 
+Sep,2021,Gujarat,1639.90 
+Sep,2021,Assam,1710.30 
+Sep,2021,Madhya Pradesh,1780.70 
+Oct,2021,UP,1851.10 
+Oct,2021,Punjab,1921.50 
+Oct,2021,Haryana,1991.90 
+Oct,2021,Bihar,2062.30 
+Oct,2021,West Bengal,2132.70 
+Oct,2021,Gujarat,2203.10 
+Oct,2021,Assam,2273.49 
+Oct,2021,Madhya Pradesh,2343.89 
+Nov,2021,UP,2414.29 
+Nov,2021,Punjab,2484.69 
+Nov,2021,Haryana,2555.09 
+Nov,2021,Bihar,2625.49 
+Nov,2021,West Bengal,2695.89 
+Nov,2021,Gujarat,2766.29 
+Nov,2021,Assam,2836.69 
+Nov,2021,Madhya Pradesh,2907.08 
+Dec,2021,UP,2977.48 
+Dec,2021,Punjab,3047.88 
+Dec,2021,Haryana,3118.28 
+Dec,2021,Bihar,3188.68 
+Dec,2021,West Bengal,3259.08 
+Dec,2021,Gujarat,3329.48 
+Dec,2021,Assam,3399.88 
+Dec,2021,Madhya Pradesh,3470.28 
+Jan,2022,UP,3540.67 
+Jan,2022,Punjab,3611.07 
+Jan,2022,Haryana,3681.47 
+Jan,2022,Bihar,3751.87 
+Jan,2022,West Bengal,3822.27 
+Jan,2022,Gujarat,3892.67 
+Jan,2022,Assam,3963.07 
+Jan,2022,Madhya Pradesh,4033.47 
+Feb,2022,UP,4103.87 
+Feb,2022,Punjab,4174.26 
+Feb,2022,Haryana,4244.66 
+Feb,2022,Bihar,4315.06 
+Feb,2022,West Bengal,4385.46 
+Feb,2022,Gujarat,4455.86 
+Feb,2022,Assam,4526.26 
+Feb,2022,Madhya Pradesh,4596.66 
+Mar,2022,UP,4667.06 
+Mar,2022,Punjab,4737.46 
+Mar,2022,Haryana,4807.85 
+Mar,2022,Bihar,4878.25 
+Mar,2022,West Bengal,4948.65 
+Mar,2022,Gujarat,5019.05 
+Mar,2022,Assam,5089.45 
+Mar,2022,Madhya Pradesh,5159.85 
+Apr,2022,UP,5230.25 
+Apr,2022,Punjab,5300.65 
+Apr,2022,Haryana,5371.05 
+Apr,2022,Bihar,5441.44 
+Apr,2022,West Bengal,5511.84 
+Apr,2022,Gujarat,5582.24 
+Apr,2022,Assam,5652.64 
+Apr,2022,Madhya Pradesh,5723.04 
+May,2022,UP,5793.44 
+May,2022,Punjab,5863.84 
+May,2022,Haryana,5934.24 
+May,2022,Bihar,6004.64 
+May,2022,West Bengal,6075.03 
+May,2022,Gujarat,6145.43 
+May,2022,Assam,6215.83 
+May,2022,Madhya Pradesh,6286.23 
+Jun,2022,UP,6356.63 
+Jun,2022,Punjab,6427.03 
+Jun,2022,Haryana,6497.43 
+Jun,2022,Bihar,6567.83 
+Jun,2022,West Bengal,6638.23 
+Jun,2022,Gujarat,6708.62 
+Jun,2022,Assam,6779.02 
+Jun,2022,Madhya Pradesh,6849.42 
+Jul,2022,UP,6919.82 
+Jul,2022,Punjab,6990.22 
+Jul,2022,Haryana,7060.62 
+Jul,2022,Bihar,7131.02 
+Jul,2022,West Bengal,7201.42 
+Jul,2022,Gujarat,7271.82 
+Jul,2022,Assam,7342.21 
+Jul,2022,Madhya Pradesh,7412.61 
+Aug,2022,UP,7483.01 
+Aug,2022,Punjab,7553.41 
+Aug,2022,Haryana,7623.81 
+Aug,2022,Bihar,7694.21 
+Aug,2022,West Bengal,7764.61 
+Aug,2022,Gujarat,7835.01 
+Aug,2022,Assam,7905.41 
+Aug,2022,Madhya Pradesh,7975.80 
+Sep,2022,UP,8046.20 
+Sep,2022,Punjab,8116.60 
+Sep,2022,Haryana,8187.00 
+Sep,2022,Bihar,8257.40 
+Sep,2022,West Bengal,8327.80 
+Sep,2022,Gujarat,8398.20 
+Sep,2022,Assam,8468.60 
+Sep,2022,Madhya Pradesh,8539.00 
+Oct,2022,UP,8609.39 
+Oct,2022,Punjab,8679.79 
+Oct,2022,Haryana,8750.19 
+Oct,2022,Bihar,8820.59 
+Oct,2022,West Bengal,8890.99 
+Oct,2022,Gujarat,8961.39 
+Oct,2022,Assam,9031.79 
+Oct,2022,Madhya Pradesh,9102.19 
+Nov,2022,UP,9172.59 
+Nov,2022,Punjab,9242.98 
+Nov,2022,Haryana,9313.38 
+Nov,2022,Bihar,9383.78 
+Nov,2022,West Bengal,9454.18 
+Nov,2022,Gujarat,9524.58 
+Nov,2022,Assam,9594.98 
+Nov,2022,Madhya Pradesh,9665.38 
+Dec,2022,UP,9735.78 
+Dec,2022,Punjab,9806.18 
+Dec,2022,Haryana,9876.57 
+Dec,2022,Bihar,9946.97 
+Dec,2022,West Bengal,10017.37 
+Dec,2022,Gujarat,10087.77 
+Dec,2022,Assam,10158.17 
+Dec,2022,Madhya Pradesh,10228.57 
